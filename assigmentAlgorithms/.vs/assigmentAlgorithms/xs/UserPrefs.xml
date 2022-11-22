@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{99B1476C-D282-4A84-B14D-F951DF864AD5}|Default">
+  <MonoDevelop.Ide.ItemProperties.assigmentAlgorithms PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="assigmentAlgorithms/Program.cs">
     <Files>
       <File FileName="assigmentAlgorithms/Program.cs" Line="1" Column="1" />
@@ -21,6 +22,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.assigmentAlgorithms FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
 </Properties>
